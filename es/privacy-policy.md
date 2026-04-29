@@ -2,7 +2,7 @@
 
 ## Responsable del tratamiento
 
-OUTZERO, S.L. (en adelante, "Outzero"), provista de NIF [XX] con domicilio en [XX], y dirección de correo electrónico info@outzero.app, es una Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (en adelante, "RGPD") y la normativa relativa a la protección de datos de carácter personal vigente en cada momento, siendo un objetivo principal para Outzero.
+OUTZERO, S.L. (en adelante, "Outzero"), provista de NIF B26926014 con domicilio en Carrer Eduard Serra i Guell, 16, Alella, 08328, Barcelona, España, y dirección de correo electrónico info@outzero.app, es una Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (en adelante, "RGPD") y la normativa relativa a la protección de datos de carácter personal vigente en cada momento, siendo un objetivo principal para Outzero.
 
 Outzero es el responsable del tratamiento de los datos personales que se recogen a través de la página web https://www.outzero.app incluyendo cualquiera de sus subdominios o secciones (en adelante, el "Sitio Web") y a través de las aplicaciones y servicios para dispositivo móviles y "wearables" publicadas por Outzero (en adelante, las "Aplicaciones") (en adelante, el Sitio Web y las Aplicaciones serán conjuntamente denominadas las "Plataformas").
 

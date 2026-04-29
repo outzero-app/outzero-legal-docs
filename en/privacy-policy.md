@@ -2,7 +2,7 @@
 
 ## Data Controller
 
-OUTZERO, S.L. (hereinafter, "Outzero"), holder of tax identification number [XX], with registered address at [XX] and email address info@outzero.app, is subject to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter, the "GDPR") and the data protection rules in force at any given time, which are a main priority for Outzero.
+OUTZERO, S.L. (hereinafter, "Outzero"), holder of tax identification number B26926014, with registered address at Carrer Eduard Serra i Guell, 16, Alella, 08328, Barcelona, Spain, and email address info@outzero.app, is subject to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter, the "GDPR") and the data protection rules in force at any given time, which are a main priority for Outzero.
 
 Outzero is the data controller of the personal data collected through the website https://www.outzero.app, including any of its subdomains or sections (hereinafter, the "Website"), and through the mobile device and wearable applications and services published by Outzero (hereinafter, the "Applications") (hereinafter, the Website and the Applications shall jointly be referred to as the "Platforms").
 
