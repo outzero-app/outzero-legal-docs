@@ -1,107 +1,111 @@
-# Politica de Privacidad
+# Política de Privacidad
 
-## 1. Responsable del tratamiento
+## Responsable del tratamiento
 
-El responsable del tratamiento de los datos personales es OUTZERO, empresa en proceso de constitucion, con correo electronico de contacto info@outzero.app.
+OUTZERO, S.L. (en adelante, "Outzero"), provista de NIF [XX] con domicilio en [XX], y dirección de correo electrónico info@outzero.app, es una Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (en adelante, "RGPD") y la normativa relativa a la protección de datos de carácter personal vigente en cada momento, siendo un objetivo principal para Outzero.
 
-OUTZERO es una plataforma digital enfocada al descubrimiento de spots, rutas y experiencias unicas de viaje y aventura. Nos tomamos muy en serio la privacidad de los usuarios y tratamos sus datos personales de forma responsable, transparente y conforme a la normativa vigente en materia de proteccion de datos, en especial el Reglamento General de Proteccion de Datos (RGPD) y la legislacion aplicable.
+Outzero es el responsable del tratamiento de los datos personales que se recogen a través de la página web https://www.outzero.app incluyendo cualquiera de sus subdominios o secciones (en adelante, el "Sitio Web") y a través de las aplicaciones y servicios para dispositivo móviles y "wearables" publicadas por Outzero (en adelante, las "Aplicaciones") (en adelante, el Sitio Web y las Aplicaciones serán conjuntamente denominadas las "Plataformas").
 
-## 2. Datos que recogemos
+La presente Política de Privacidad regula el tratamiento de datos personales de los usuarios por parte de Outzero en las Plataformas en el marco de la prestación de los servicios.
 
-OUTZERO unicamente recoge los datos necesarios para el correcto funcionamiento de la aplicacion y para mejorar la experiencia del usuario.
+El acceso y el uso de las Plataformas suponen que el usuario ha leído y aceptado en su totalidad la presente Política de Privacidad. Algunos de los servicios que se prestan a través de las Plataformas podrán contar con políticas de privacidad específicas, que completarán o, si fueran diferentes a esta Política de Privacidad, sustituirán o complementarán el contenido de la presente Política de Privacidad y que deberán ser aceptadas por el usuario antes de iniciarse la prestación del servicio correspondiente.
 
-Cuando creas una cuenta en OUTZERO mediante servicios de terceros como Google o Apple, se recogen los datos basicos de cuenta, como la direccion de correo electronico, el nombre de usuario y, en su caso, la foto de perfil. Estos datos se utilizan exclusivamente para identificarte dentro de la aplicacion y permitir el acceso a sus funcionalidades.
+El objetivo de esta política es explicarle como Outzero tratará sus datos personales, los cuales pueden ser recabados a través de los distintos formularios, que a tal efecto pueden disponerse en la página web o la aplicación. Tus datos serán tratados por Outzero de forma confidencial y solo para aquellas finalidades que hayas consentido, tal y como se explica a continuación en la presente política. Asimismo, en lo que respecta al acceso y uso de las Plataformas resultan de aplicación las Términos y Condiciones de Uso.
 
-La plataforma permite generar contenido propio, como fotos, videos, valoraciones, favoritos, listas y elementos guardados asociados a spots y rutas. Este contenido tiene como finalidad enriquecer la comunidad OUTZERO y es visible dentro de la aplicacion conforme a su funcionamiento y configuracion.
+## Finalidades de los tratamientos
 
-Tambien se recogen datos de uso relacionados con la actividad dentro de la app, como interacciones con spots, mapas y funcionalidades, asi como estadisticas de navegacion. Estos datos se utilizan para analizar el uso de la plataforma y mejorar de forma continua su rendimiento, estabilidad y experiencia de usuario.
+Tus datos serán tratados de acuerdo con lo siguiente:
 
-## 3. Ubicacion del dispositivo
+### Gestión de las Plataformas para la prestación de servicios
 
-OUTZERO puede acceder y recoger la ubicacion precisa del dispositivo unicamente si el usuario otorga permiso explicito desde su dispositivo movil o navegador compatible.
+Outzero trata los datos de los usuarios registrados en la Plataforma a través de los Servicios con la finalidad de gestionar las Plataformas, así como para prestar o mejorar la prestación de los Servicios.
 
-Ademas, cuando el usuario sube fotos para crear o editar un spot y acepta expresamente el analisis de metadatos, OUTZERO puede leer las coordenadas GPS EXIF incluidas en esos archivos para proponer o autocompletar la ubicacion del spot.
+Base de legitimación: Ejecución contractual.
 
-Los datos de ubicacion se utilizan para mostrar spots cercanos.
+Conservación: Trataremos los datos mientras se mantenga la cuenta de usuario y hasta que se solicite la baja como usuario o se manifieste oposición al tratamiento.
 
-Centrar el mapa en la posicion actual.
+### Geolocalización
 
-Facilitar la navegacion mediante la funcionalidad "seguir ruta".
+La plataforma solicitará que facilite la ubicación del spot o punto de interés que se está publicando. En el caso de que el usuario quiera utilizar la geolocalización se gestionará un consentimiento que deberá otorgar en la App. En ese caso, podremos tratar los datos localización como la grabación de la ruta o punto de interés, o la navegación por una ruta descargada, la prestación de los Servicios puede incluir el tratamiento de los datos de localización, que se utilizarán para mejorar la prestación de los Servicios.
 
-Cuando el usuario autoriza el analisis de metadatos de sus fotos, las coordenadas GPS detectadas se usan exclusivamente para sugerir o rellenar la ubicacion del spot correspondiente. El usuario puede ignorar esta sugerencia y elegir una ubicacion manualmente.
+Base de legitimación: Consentimiento.
 
-Cuando el usuario activa por primera vez la funcionalidad "seguir ruta", se mostrara un aviso informativo explicando que la aplicacion necesita acceso continuo a la ubicacion para poder guiarle incluso con la pantalla bloqueada. Tras dicha informacion, el usuario podra conceder o denegar el permiso correspondiente desde el sistema operativo de su dispositivo.
+Conservación: Se conservarán los datos mientras no revoque el consentimiento. El usuario podrá gestionar el mismo en cualquier momento mediante los permisos que le solicite la app.
 
-Este aviso informativo solo se mostrara la primera vez que el usuario utilice dicha funcionalidad. Si el usuario concede el permiso, este quedara activo para usos posteriores sin necesidad de solicitarlo nuevamente, salvo que el propio usuario lo revoque.
+### Envío de comunicaciones comerciales
 
-Si el permiso esta concedido, la aplicacion podra acceder a la ubicacion tambien en segundo plano, incluso cuando la aplicacion no este en primer plano o la pantalla se encuentre bloqueada, con el unico fin de mantener activa la navegacion hasta el spot.
+En caso de que se preste el consentimiento y se proporcione los datos de contacto, se utilizaran los mismos para enviar información y comunicaciones comerciales sobre productos o servicios, así como descuentos, promociones, invitaciones a eventos o encuestas de opinión de Outzero.
 
-Esta funcionalidad se activa exclusivamente cuando el usuario la inicia voluntariamente y se desactiva cuando el usuario finaliza la ruta.
+Base de legitimación: Consentimiento.
 
-OUTZERO no realiza seguimiento continuo de la ubicacion fuera de la funcionalidad "seguir ruta" ni utiliza los datos de ubicacion, incluida la extraida de metadatos EXIF, para fines distintos a los descritos. El usuario podra revocar el permiso de ubicacion en cualquier momento desde la configuracion de su dispositivo.
+Conservación: Trataremos los datos hasta que se solicite la baja o se revoque el consentimiento.
 
-## 4. Tratamiento de la direccion IP
+### Contacta con nosotros
 
-OUTZERO recoge la direccion IP del usuario como dato tecnico necesario para el correcto funcionamiento del servicio.
+Al contactar con nosotros trataremos los datos para gestionar las dudas o consultas que nos puedas plantear.
 
-La direccion IP se utiliza para proteger la plataforma frente a accesos no autorizados, intentos de fraude, uso automatizado del servicio o cualquier actividad que pueda comprometer la seguridad de los usuarios o de la infraestructura tecnica. Asimismo, es necesaria para establecer y mantener la conexion entre el dispositivo del usuario y los servidores de la aplicacion, gestionar sesiones, detectar errores tecnicos, resolver incidencias y optimizar el rendimiento general del servicio.
+Base de legitimación: Consentimiento.
 
-De forma limitada, la IP permite determinar una ubicacion geografica aproximada, como el pais o la region desde donde se accede a la aplicacion. Esta informacion se utiliza unicamente para adaptar aspectos basicos del servicio, como el idioma, la disponibilidad de determinadas funcionalidades o el cumplimiento de la normativa aplicable segun el territorio. En ningun caso se realiza una geolocalizacion precisa ni en tiempo real.
+Conservación: Conservaremos los datos durante 1 año tras haber resuelto la consulta.
 
-La direccion IP tambien puede emplearse de forma auxiliar para la elaboracion de estadisticas globales y agregadas sobre el uso de la aplicacion, como distribucion de usuarios por regiones o franjas horarias de actividad, sin permitir la identificacion individual del usuario.
+### Mejora de los servicios y prevención del fraude
 
-La IP no se utiliza para identificar la direccion exacta del usuario, realizar seguimientos continuos, ni para publicidad personalizada o elaboracion de perfiles comerciales individuales.
+Al utilizar los Servicios, se genera información sobre ese uso de las Plataformas como búsquedas, seguimientos, interacciones, publicaciones o descargas, que serán empleadas por Outzero para mejorar los Servicios, así como para prevenir conductas que pudieran suponer un fraude y garantizar la seguridad.
 
-## 5. Tratamiento del UUID (Identificador Unico de Dispositivo)
+Base de legitimación: Interés legítimo.
 
-OUTZERO utiliza un UUID (Identificador Unico de Dispositivo o de instalacion de la aplicacion) como identificador tecnico necesario para el correcto funcionamiento del servicio. Este identificador no permite identificar directamente al usuario ni conocer su ubicacion exacta.
+Conservación: 10 años.
 
-El UUID permite distinguir una instalacion de la aplicacion de otra y reconocer el dispositivo de forma consistente entre sesiones, sin necesidad de identificar personalmente al usuario. Gracias a ello, determinadas funcionalidades pueden operar correctamente, como la gestion de preferencias, configuraciones basicas, sincronizacion de datos o funcionalidades asociadas a una misma instalacion.
+En el caso de que a futuro se traten los datos para cualquier otra finalidad será comunicada antes de proceder al tratamiento de los datos.
 
-Asimismo, el UUID se utiliza para prevenir abusos y usos indebidos del servicio, como la creacion masiva de cuentas, el uso automatizado, intentos de fraude o manipulacion del sistema. Tambien puede emplearse de forma agregada para analitica interna, deteccion de errores recurrentes y mejora del rendimiento y la experiencia de usuario.
+No obstante, en algunas ocasiones puede ser necesario el tratamiento de los datos personales para dar cumplimiento a obligaciones legales, o en relación con cualquier relación contractual que podamos tener con el usuario.
 
-En caso de que determinadas funcionalidades esten sujetas a limites de uso, periodos de prueba o condiciones especificas, el UUID permite aplicar estos controles de manera tecnica y coherente por dispositivo o instalacion.
+## Envío de comunicaciones comerciales
 
-## 6. Cookies y tecnologias similares
+En el supuesto que se haya autorizado, a través de la prestación del consentimiento, se podrán enviar comunicaciones comerciales, o actualizaciones push de las Plataformas. En esos casos, Outzero podrá enviar información sobre sus productos, actividades y servicios, o actualizaciones que se produzcan en las Plataformas.
 
-OUTZERO utiliza cookies y tecnologias equivalentes unicamente con fines de analitica interna y mejora del rendimiento y estabilidad de la aplicacion. No se utilizan cookies de publicidad personalizada ni se venden datos a terceros.
+En cualquier momento se podrá revocar el consentimiento a recibir comunicaciones comerciales en cada una de las comunicaciones, marcando el link [XX] o comunicando la voluntad de revocar el consentimiento enviando un email a info@outzero.app. En el caso las comunicaciones push, se podrá revocar el consentimiento directamente en las Plataformas accediendo a: [indicar dónde].
 
-## 7. Publicidad y contenido promocional en OUTZERO
+## Comunicaciones de datos y transferencias internacionales
 
-OUTZERO puede mostrar dentro de la aplicacion banners o contenidos promocionales de empresas verificadas que colaboran con la plataforma y cumplen los estandares de calidad definidos por OUTZERO. Estas empresas pueden aparecer integradas en la app como parte del contenido visible o en espacios promocionales especificos y contribuyen a financiar el servicio mediante una cuota anual.
+En el caso de que contrate una suscripción, sus datos podrán ser comunicados a los proveedores con los que trabajemos para realizar el pago de la suscripción, que actuarán como responsables del tratamiento, y que por lo tanto serán éstos las que determinen los fines y los medios para los cuales usarán los mismos.
 
-Los contenidos promocionales que se muestran en OUTZERO constituyen publicidad contextual, es decir, se presentan en funcion de criterios generales como la ubicacion aproximada del usuario, la region o el contenido que este visualizando en ese momento (por ejemplo, spots o rutas de una zona concreta).
+Con excepción de la comunicación de datos indicada en el párrafo anterior, los datos no serán cedidos, venidos, alquilados o puestos a disposición de ninguna otra forma a terceros, a excepción de aquellos proveedores de servicios que realicen determinadas actividades para Outzero (gestión de la base de datos, entre otros) pero que en ningún caso tratarán los datos para finalidades propias.
 
-En ningun caso OUTZERO realiza publicidad personalizada basada en perfiles individuales, historiales de navegacion, comportamiento previo del usuario, seguimiento entre aplicaciones o servicios externos. No se elaboran perfiles comerciales ni se toman decisiones automatizadas con efectos legales sobre el usuario.
+Algunos de estos proveedores pueden encontrase fuera de la Unión Europea o del Espacio Económico Europeo, por lo que en caso de que se contraten con dichos proveedores, nos aseguraremos de que se realiza de acuerdo con las garantías previstas en el RGPD y que aplicaremos todas las medidas y controles para garantizar y proteger el tratamiento de los datos personales.
 
-La ubicacion utilizada para mostrar estos contenidos es siempre aproximada y se obtiene unicamente si el usuario ha otorgado permiso o a partir de informacion tecnica basica como el pais o region de conexion. Este tratamiento no permite identificar al usuario como persona fisica ni conocer su ubicacion exacta.
+Es posible solicitar en cualquier momento más información acerca de las garantías tomadas en cada caso, contactando con info@outzero.app.
 
-## 8. Finalidades del tratamiento
+## Cookies
 
-Los datos personales se tratan con la finalidad de permitir el acceso y uso normal de la aplicacion OUTZERO, mostrar spots, rutas y experiencias adaptadas a la ubicacion y contexto del usuario, guardar favoritos y contenido personalizado, mostrar contenidos promocionales contextuales de empresas verificadas, garantizar la seguridad de la plataforma, prevenir fraudes y usos no autorizados, analizar el uso de la app para mejorar sus funcionalidades y rendimiento, y gestionar incidencias, consultas y solicitudes de soporte.
+A través de las Cookies, podremos tratar y conservar aquella información sobre el uso que se realiza en el Sitio Web, y en su caso algunos datos personales, pudiendo ver las secciones visitadas, mapas de influencia, rastreo del comportamiento, y en qué momento se abandona la web.
 
-OUTZERO no utiliza los datos personales para finalidades distintas a las descritas en esta politica.
+Dicha información se obtiene principalmente mediante el uso de Cookies, por lo que su tratamiento dependerá de las Cookies que se hayan aceptado. No obstante, actualmente solo se utilizan cookies técnicas.
 
-## 9. Base legal del tratamiento
+Es posible gestionar las cookies desde el configurador y cambiar las preferencias en cualquier momento. Para más información, incluido los tipos de cookies usadas y como configurar las cookies instaladas en nuestro sitio web, se puede consultar nuestra Política de Cookies.
 
-El tratamiento de los datos se basa en el consentimiento del usuario al crear una cuenta y aceptar esta politica de privacidad, en la ejecucion del contrato necesario para prestar el servicio de OUTZERO y en el interes legitimo de mejorar la plataforma, garantizar su seguridad y prevenir usos indebidos.
+## Plazo de conservación
 
-## 10. Destinatarios de los datos
+Los datos se conservarán durante el plazo establecido en cada apartado de la web en el que se soliciten datos de carácter personal, salvo que la persona interesada consienta su conservación durante un plazo superior, sin perjuicio de su conservación y mantenimiento bajo el debido bloqueo para su puesta a disposición de las autoridades competentes en las distintas materias que resulten de aplicación.
 
-Los datos solo se comparten cuando es estrictamente necesario con proveedores tecnologicos que prestan servicios a OUTZERO, como alojamiento, mantenimiento o soporte tecnico, y con herramientas de analitica, siempre de forma agregada y anonimizada. OUTZERO no vende datos personales a terceros.
+## Derechos del usuario
 
-## 11. Derechos del usuario
+Cualquier persona tiene derecho a obtener confirmación sobre si Outzero está tratando datos personales que le conciernen o no.
 
-El usuario puede ejercer en cualquier momento sus derechos de acceso, rectificacion, supresion, oposicion, limitacion del tratamiento y portabilidad de sus datos personales escribiendo a info@outzero.app.
+Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos.
 
-## 12. Seguridad y conservacion de los datos
+En determinadas circunstancias, las personas interesadas podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso estos únicamente se conservarán para el ejercicio o la defensa de reclamaciones.
 
-OUTZERO aplica medidas tecnicas y organizativas adecuadas para proteger los datos frente a accesos no autorizados, perdida, alteracion o divulgacion indebida.
+Asimismo, en determinadas circunstancias y por motivos relacionados con su situación particular, las personas interesadas podrán oponerse al tratamiento de sus datos. En ese caso, Outzero dejará de tratar los datos, salvo por motivos legítimos imperiosos o para el ejercicio o la defensa de posibles reclamaciones.
 
-Los datos se conservaran mientras el usuario mantenga una cuenta activa en OUTZERO o durante el tiempo necesario para cumplir con obligaciones legales. El usuario puede solicitar la eliminacion de su cuenta y de sus datos en cualquier momento.
+En virtud del derecho a la portabilidad, las personas interesadas tienen derecho a obtener los datos personales que les conciernen en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable.
 
-## 13. Cambios en la politica y reclamaciones
+Cuando la base jurídica que legitima el tratamiento sea el consentimiento, la persona interesada tiene derecho a retirarlo o revocarlo en cualquier momento. La retirada o revocación del consentimiento no tendrá efectos retroactivos y, por tanto, no afectará a la licitud del tratamiento basado en el consentimiento previo a su retirada.
 
-OUTZERO puede actualizar esta politica de privacidad para adaptarla a cambios legales o mejoras del servicio. Cualquier cambio relevante sera notificado a traves de la app u otros medios adecuados.
+Puede ejercer cualquiera de los derechos indicados enviando un correo electrónico a: info@outzero.app.
 
-Si el usuario considera que el tratamiento de sus datos no es adecuado, puede presentar una reclamacion ante la Agencia Espanola de Proteccion de Datos (AEPD) a traves de su sitio web oficial.
+Tenga en cuenta que, en algunos supuestos, es posible que Outzero necesite comprobar su identidad y por ello le requiera aportar determinada documentación acreditativa como, por ejemplo, fotocopia del DNI o documento identificativo equivalente.
+
+## Dudas o quejas
+
+Si tiene alguna pregunta o queja sobre cómo tratamos sus datos personales, o cualquier otro asunto relacionado, puede ponerse en contacto con nosotros, a través de los canales anteriormente indicados, con la referencia "Datos personales". Si no recibe respuesta en un plazo razonable, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (`www.aepd.es`).

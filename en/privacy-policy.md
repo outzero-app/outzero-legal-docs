@@ -1,107 +1,111 @@
 # Privacy Policy
 
-## 1. Data Controller
+## Data Controller
 
-The data controller for personal data is OUTZERO, a company in the process of incorporation, with contact email info@outzero.app.
+OUTZERO, S.L. (hereinafter, "Outzero"), holder of tax identification number [XX], with registered address at [XX] and email address info@outzero.app, is subject to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereinafter, the "GDPR") and the data protection rules in force at any given time, which are a main priority for Outzero.
 
-OUTZERO is a digital platform focused on discovering spots, routes, and unique travel and adventure experiences. We take user privacy very seriously and process personal data responsibly, transparently, and in accordance with current data protection regulations, especially the General Data Protection Regulation (GDPR) and applicable legislation.
+Outzero is the data controller of the personal data collected through the website https://www.outzero.app, including any of its subdomains or sections (hereinafter, the "Website"), and through the mobile device and wearable applications and services published by Outzero (hereinafter, the "Applications") (hereinafter, the Website and the Applications shall jointly be referred to as the "Platforms").
 
-## 2. Data We Collect
+This Privacy Policy governs the processing of users' personal data by Outzero on the Platforms in the context of providing the services.
 
-OUTZERO only collects the data necessary for the proper functioning of the application and to improve the user experience.
+Access to and use of the Platforms imply that the user has read and fully accepted this Privacy Policy. Some of the services provided through the Platforms may have specific privacy policies which, if applicable, will supplement this Privacy Policy or, if they differ from it, replace or complement its content, and which must be accepted by the user before the relevant service begins.
 
-When you create an account on OUTZERO through third-party services such as Google or Apple, basic account data is collected, such as email address, username, and, where applicable, profile photo. This data is used exclusively to identify you within the application and allow access to its functionalities.
+The purpose of this policy is to explain how Outzero will process your personal data, which may be collected through the different forms that may be made available on the website or the application. Your data will be processed by Outzero confidentially and only for the purposes to which you have consented, as explained below in this policy. Likewise, access to and use of the Platforms are also subject to the Terms and Conditions of Use.
 
-The platform allows you to generate your own content, such as photos, videos, ratings, favorites, lists, and saved items associated with spots and routes. This content is intended to enrich the OUTZERO community and is visible within the application according to its operation and configuration.
+## Purposes of Processing
 
-Usage data related to activity within the app is also collected, such as interactions with spots, maps, and functionalities, as well as navigation statistics. This data is used to analyze platform usage and continuously improve its performance, stability, and user experience.
+Your data will be processed as follows:
 
-## 3. Device Location
+### Platform management for service provision
 
-OUTZERO may access and collect the precise location of the device only if the user grants explicit permission from their mobile device or compatible browser.
+Outzero processes the data of users registered on the Platform through the Services in order to manage the Platforms and to provide or improve the provision of the Services.
 
-In addition, when the user uploads photos to create or edit a spot and expressly agrees to metadata analysis, OUTZERO may read the GPS EXIF coordinates included in those files to suggest or autofill the spot location.
+Legal basis: Performance of a contract.
 
-Location data is used to show nearby spots.
+Retention: We will process the data while the user account remains active and until the user requests deregistration or objects to the processing.
 
-Center the map on the current position.
+### Geolocation
 
-Facilitate navigation through the "follow route" feature.
+The platform will ask you to provide the location of the spot or point of interest being published. If the user wishes to use geolocation, consent will be managed and must be granted in the App. In that case, we may process location data, such as recording the route or point of interest, or navigating a downloaded route, as the provision of the Services may include the processing of location data, which will be used to improve the provision of the Services.
 
-When the user authorizes the analysis of their photo metadata, any detected GPS coordinates are used exclusively to suggest or autofill the location of the relevant spot. The user may ignore this suggestion and choose a location manually.
+Legal basis: Consent.
 
-When the user activates the "follow route" feature for the first time, an informational notice will be shown explaining that the application needs continuous access to location to guide the user even with the screen locked. After this information, the user may grant or deny the corresponding permission from the operating system of their device.
+Retention: The data will be kept until consent is withdrawn. The user may manage it at any time through the permissions requested by the app.
 
-This informational notice will only be shown the first time the user uses this feature. If the user grants permission, it will remain active for future uses without needing to request it again, unless the user revokes it.
+### Sending commercial communications
 
-If permission is granted, the application may also access location in the background, even when the application is not in the foreground or the screen is locked, for the sole purpose of keeping navigation active until reaching the spot.
+If consent is given and contact details are provided, such data will be used to send information and commercial communications about products or services, as well as discounts, promotions, invitations to events, or opinion surveys from Outzero.
 
-This functionality is activated exclusively when the user starts it voluntarily and is deactivated when the user ends the route.
+Legal basis: Consent.
 
-OUTZERO does not perform continuous location tracking outside the "follow route" functionality and does not use location data, including data extracted from EXIF metadata, for purposes other than those described. The user may revoke location permission at any time from their device settings.
+Retention: We will process the data until the user unsubscribes or withdraws consent.
 
-## 4. IP Address Processing
+### Contact us
 
-OUTZERO collects the user's IP address as technical data necessary for the proper functioning of the service.
+When you contact us, we will process your data to handle any questions or queries you may send us.
 
-The IP address is used to protect the platform against unauthorized access, fraud attempts, automated use of the service, or any activity that could compromise the security of users or the technical infrastructure. It is also necessary to establish and maintain the connection between the user's device and the application servers, manage sessions, detect technical errors, resolve incidents, and optimize the overall performance of the service.
+Legal basis: Consent.
 
-In a limited way, the IP allows determining an approximate geographic location, such as the country or region from which the application is accessed. This information is used only to adapt basic aspects of the service, such as language, the availability of certain functionalities, or compliance with applicable regulations according to the territory. In no case is precise or real-time geolocation performed.
+Retention: We will keep the data for 1 year after the query has been resolved.
 
-The IP address may also be used in an auxiliary manner for the preparation of global and aggregated statistics on the use of the application, such as distribution of users by regions or time periods of activity, without allowing individual user identification.
+### Service improvement and fraud prevention
 
-The IP is not used to identify the exact address of the user, perform continuous tracking, or for personalized advertising or preparation of individual commercial profiles.
+When using the Services, information is generated about such use of the Platforms, such as searches, follows, interactions, posts, or downloads, which will be used by Outzero to improve the Services and to prevent conduct that could amount to fraud and ensure security.
 
-## 5. UUID (Unique Device Identifier) Processing
+Legal basis: Legitimate interest.
 
-OUTZERO uses a UUID (Unique Device Identifier or application installation identifier) as a technical identifier necessary for the proper functioning of the service. This identifier does not allow directly identifying the user or knowing their exact location.
+Retention: 10 years.
 
-The UUID allows distinguishing one installation of the application from another and recognizing the device consistently between sessions, without needing to personally identify the user. Thanks to this, certain functionalities can operate correctly, such as preference management, basic configurations, data synchronization, or functionalities associated with the same installation.
+If in the future data is processed for any other purpose, this will be communicated before carrying out such processing.
 
-Likewise, the UUID is used to prevent abuse and misuse of the service, such as mass account creation, automated use, fraud attempts, or system manipulation. It may also be used in an aggregated manner for internal analytics, detection of recurring errors, and improvement of performance and user experience.
+However, in some cases it may be necessary to process personal data to comply with legal obligations or in connection with any contractual relationship we may have with the user.
 
-In case certain functionalities are subject to usage limits, trial periods, or specific conditions, the UUID allows applying these controls in a technical and consistent manner per device or installation.
+## Sending commercial communications
 
-## 6. Cookies and Similar Technologies
+If authorized through consent, commercial communications or push updates from the Platforms may be sent. In such cases, Outzero may send information about its products, activities, and services, or updates made on the Platforms.
 
-OUTZERO uses cookies and equivalent technologies only for internal analytics and improvement of the performance and stability of the application. No personalized advertising cookies are used and data is not sold to third parties.
+Consent to receive commercial communications may be withdrawn at any time in each communication by clicking the link [XX] or by communicating the wish to withdraw consent by sending an email to info@outzero.app. In the case of push communications, consent may be withdrawn directly on the Platforms by accessing: [indicate where].
 
-## 7. Advertising and Promotional Content in OUTZERO
+## Data disclosures and international transfers
 
-OUTZERO may display banners or promotional content from verified companies within the application that collaborate with the platform and meet the quality standards defined by OUTZERO. These companies may appear integrated in the app as part of visible content or in specific promotional spaces and contribute to financing the service through an annual fee.
+If you purchase a subscription, your data may be disclosed to the providers we work with to process the subscription payment. These providers will act as data controllers and will therefore determine the purposes and means for which they use the data.
 
-The promotional content displayed in OUTZERO constitutes contextual advertising, meaning it is presented based on general criteria such as the approximate location of the user, the region, or the content they are viewing at that moment (for example, spots or routes in a specific area).
+Except for the data disclosure indicated in the previous paragraph, the data will not be assigned, sold, rented, or otherwise made available to any other third parties, except for service providers that carry out certain activities for Outzero (database management, among others), but who will in no event process the data for their own purposes.
 
-In no case does OUTZERO perform personalized advertising based on individual profiles, browsing histories, previous user behavior, tracking between applications or external services. No commercial profiles are created nor are automated decisions with legal effects on the user made.
+Some of these providers may be located outside the European Union or the European Economic Area. If such providers are engaged, we will ensure that this is done in accordance with the safeguards provided for in the GDPR and that we apply all measures and controls necessary to guarantee and protect the processing of personal data.
 
-The location used to display this content is always approximate and is obtained only if the user has granted permission or from basic technical information such as the country or region of connection. This processing does not allow identifying the user as a natural person or knowing their exact location.
+You may request more information at any time about the safeguards adopted in each case by contacting info@outzero.app.
 
-## 8. Purposes of Processing
+## Cookies
 
-Personal data is processed for the purpose of allowing normal access and use of the OUTZERO application, showing spots, routes, and experiences adapted to the user's location and context, saving favorites and personalized content, displaying contextual promotional content from verified companies, ensuring platform security, preventing fraud and unauthorized uses, analyzing app usage to improve its functionalities and performance, and managing incidents, inquiries, and support requests.
+Through Cookies, we may process and retain information about how the Website is used and, where applicable, some personal data, including the sections visited, heatmaps, behavior tracking, and the point at which the website is abandoned.
 
-OUTZERO does not use personal data for purposes other than those described in this policy.
+This information is obtained mainly through the use of Cookies, so its processing will depend on the Cookies that have been accepted. However, at present only technical cookies are used.
 
-## 9. Legal Basis for Processing
+Cookies can be managed from the configuration tool and preferences can be changed at any time. For more information, including the types of cookies used and how to configure the cookies installed on our website, please consult our Cookie Policy.
 
-Data processing is based on the user's consent when creating an account and accepting this privacy policy, on the execution of the contract necessary to provide the OUTZERO service, and on the legitimate interest of improving the platform, ensuring its security, and preventing misuse.
+## Retention period
 
-## 10. Data Recipients
+Data will be retained for the period established in each section of the website in which personal data is requested, unless the data subject consents to its retention for a longer period, without prejudice to its retention and maintenance under due blocking for availability to the competent authorities in the different matters that may apply.
 
-Data is only shared when strictly necessary with technology providers that provide services to OUTZERO, such as hosting, maintenance, or technical support, and with analytics tools, always in an aggregated and anonymized manner. OUTZERO does not sell personal data to third parties.
+## User rights
 
-## 11. User Rights
+Any person has the right to obtain confirmation as to whether or not Outzero is processing personal data concerning them.
 
-The user may exercise at any time their rights of access, rectification, deletion, opposition, limitation of processing, and portability of their personal data by writing to info@outzero.app.
+Data subjects have the right to access their personal data and to request the rectification of inaccurate data or, where appropriate, erasure when, among other reasons, the data is no longer necessary for the purposes for which it was collected.
 
-## 12. Data Security and Retention
+In certain circumstances, data subjects may request restriction of the processing of their data, in which case the data will only be retained for the exercise or defense of claims.
 
-OUTZERO applies appropriate technical and organizational measures to protect data against unauthorized access, loss, alteration, or improper disclosure.
+Likewise, in certain circumstances and for reasons related to their particular situation, data subjects may object to the processing of their data. In that case, Outzero will stop processing the data, except for compelling legitimate grounds or for the exercise or defense of possible claims.
 
-Data will be retained as long as the user maintains an active account on OUTZERO or for the time necessary to comply with legal obligations. The user may request the deletion of their account and data at any time.
+By virtue of the right to data portability, data subjects have the right to receive the personal data concerning them in a structured, commonly used, and machine-readable format, and to transmit it to another controller.
 
-## 13. Policy Changes and Complaints
+When the legal basis legitimizing the processing is consent, the data subject has the right to withdraw or revoke it at any time. Withdrawal or revocation of consent will not have retroactive effects and therefore will not affect the lawfulness of processing based on consent before its withdrawal.
 
-OUTZERO may update this privacy policy to adapt it to legal changes or service improvements. Any relevant change will be notified through the app or other appropriate means.
+You may exercise any of the rights indicated by sending an email to: info@outzero.app.
 
-If the user considers that the processing of their data is not adequate, they may file a complaint with the Spanish Data Protection Agency (AEPD) through its official website.
+Please note that, in some cases, Outzero may need to verify your identity and may therefore require supporting documentation such as a copy of your national identity document or an equivalent identification document.
+
+## Questions or complaints
+
+If you have any questions or complaints about how we process your personal data, or any other related matter, you may contact us through the channels indicated above, using the reference "Personal data". If you do not receive a response within a reasonable period, you have the right to file a complaint with the Spanish Data Protection Agency (`www.aepd.es`).
