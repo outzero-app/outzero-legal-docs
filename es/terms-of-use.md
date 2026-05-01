@@ -14,7 +14,7 @@ La principal utilidad de Outzero es permitir a los Usuarios explorar, consultar 
 
 ### 2.2.
 
-Si bien la descarga, instalación, uso y registro en Outzero son de carácter gratuito, la suscripción a los servicios premium implica el pago de su precio. Se le informará previamente del precio y de las condiciones de la suscripción para que pueda aceptarlas o rechazarlas. Las suscripciones no se renuevan de forma automática.
+Si bien la descarga, instalación, uso y registro en Outzero son de carácter gratuito, la suscripción a los servicios premium implica el pago de su precio. Se le informará previamente del precio y de las condiciones de la suscripción para que pueda aceptarlas o rechazarlas. Cuando las suscripciones se distribuyan a través de tiendas de aplicaciones o plataformas de pago de terceros, las condiciones de renovación, cancelación, restauración, facturación y reembolso también podrán depender de las condiciones de la tienda o proveedor correspondiente, sin perjuicio de la información que Outzero facilite dentro del flujo de compra.
 
 ### 2.3.
 
@@ -27,6 +27,10 @@ La web y App Outzero están diseñadas para ser empleadas en ciertos dispositivo
 ### 2.5.
 
 Le informamos además de que Outzero puede incluir publicidad propia o de terceras empresas y, cuando proceda, contenido promocionado o patrocinado. Dicho contenido aparecerá identificado de forma clara como publicidad, patrocinado o fórmula equivalente, de conformidad con la normativa aplicable.
+
+### 2.6.
+
+Determinadas funcionalidades pueden depender de permisos o capacidades del dispositivo, como la geolocalización, la localización en segundo plano durante el seguimiento activo de rutas, las notificaciones push, el acceso a archivos multimedia seleccionados o la conectividad con servicios de terceros de mapas, pagos o mensajería. Si el Usuario no concede los permisos necesarios, algunas funcionalidades podrán quedar limitadas o no estar disponibles.
 
 ## 3. Propiedad intelectual e industrial y licencia de uso
 
@@ -59,6 +63,7 @@ Para utilizar determinados servicios el Usuario debe registrarse creando un usua
 - Abstenerse de utilizar la plataforma para la difusión de contenido que vulnere derechos de terceros, incluyendo, entre otros, derechos de imagen, privacidad o propiedad intelectual. El usuario es responsable de las imágenes que suba a la aplicación, por lo que se asegurará de ser el autor las imágenes, o en su caso de disponer de los permisos necesarios para poder utilizarlas.
 - Utilizar la aplicación de manera responsable, evitando cualquier contenido que pueda considerarse perturbador, engañoso o inadecuado para la finalidad del servicio.
 - Dar información veraz en el momento del registro en la web o la app Outzero.
+- Utilizar de forma responsable, segura y conforme a la normativa aplicable las funciones de seguimiento de rutas, geolocalización, localización en segundo plano y cualesquiera otras vinculadas a actividades al aire libre, atendiendo a sus circunstancias reales.
 - Únicamente se permite un registro por usuario. No está permitido registrarse varias veces con identidades distintas ni utilizar Outzero de mala fe, con fines maliciosos, ilícitos o contrarios a estas Condiciones Generales de Uso. En caso de detectarse un uso indebido de Outzero, esta podrá adoptar medidas proporcionadas, incluyendo la retirada de contenidos, la limitación de funcionalidades, la suspensión temporal o, en supuestos graves o reiterados, la cancelación de la cuenta, de conformidad con estas Condiciones Generales de Uso y con la normativa aplicable.
 - Revisar periódicamente los presentes Términos y Condiciones, o cualesquiera otras condiciones aplicables, comprobando los cambios que, en su caso, pudieran haber sufrido.
 - Revisar las notificaciones que, en su caso, le sean remitidas por Outzero, puesto que pueden incluir información importante.
@@ -83,13 +88,15 @@ Una vez cumplidos todos los requisitos y completado el registro, Outzero enviar�
 
 Outzero podrá denegar el registro, suspender temporalmente la cuenta o cancelarla definitivamente cuando existan indicios razonables de incumplimiento de estas Condiciones Generales de Uso, de la normativa aplicable o de uso no autorizado, fraudulento o indebido de la cuenta, atendiendo a la gravedad, reiteración y circunstancias del caso. Cuando resulte legalmente exigible o procedente, Outzero informará al Usuario afectado de la medida adoptada y de las vías de recurso disponibles.
 
+El Usuario también podrá solicitar la eliminación de su cuenta mediante las herramientas habilitadas en las Plataformas. Por motivos de seguridad, Outzero podrá exigir reautenticación, confirmación por correo electrónico o pasos equivalentes de verificación antes de proceder. Una vez confirmada la eliminación, Outzero podrá aplicar un periodo de gracia antes de la eliminación permanente. Durante dicho periodo, la solicitud de eliminación podrá cancelarse en los supuestos habilitados por el servicio, como el acceso de nuevo a la cuenta.
+
 ### 4.4. Moderación de contenidos y medidas aplicables
 
 Outzero podrá adoptar medidas respecto de contenidos o cuentas cuando existan indicios de ilicitud, infracción de estos Términos y Condiciones, riesgos para la seguridad de terceros o para la integridad del servicio. Tales medidas podrán consistir, según la gravedad del caso, en la retirada del contenido, la limitación de su visibilidad, la desactivación de funcionalidades, la suspensión temporal de la cuenta o su cancelación definitiva. En particular, de conformidad con el art. 23 del Reglamento (UE) 2022/2065 (DSA), cuando un Usuario publique de forma reiterada contenidos manifiestamente ilícitos, Outzero suspenderá temporalmente su cuenta durante un período razonable y proporcionado, previa advertencia. Se entenderá que existe reiteración cuando el Usuario haya recibido al menos dos avisos fundados por contenidos ilícitos en un plazo de noventa (90) días.
 
 ### 4.5. Detección y revisión de contenidos
 
-Outzero no asume una obligación general de supervisión previa de todos los contenidos publicados por los Usuarios. No obstante, podrá llevar a cabo revisiones voluntarias de carácter manual así como actuar sobre la base de denuncias de usuarios, terceros o autoridades competentes, en los términos previstos por la normativa aplicable. Outzero no emplea sistemas automatizados de detección o filtraje de contenidos.
+Outzero no asume una obligación general de supervisión previa de todos los contenidos publicados por los Usuarios. No obstante, podrá llevar a cabo revisiones voluntarias de carácter manual, comprobaciones de integridad o seguridad, o verificaciones específicas vinculadas a moderación, prevención de abusos, validación de archivos multimedia o cumplimiento de los presentes Términos y Condiciones, así como actuar sobre la base de denuncias de usuarios, terceros o autoridades competentes, en los términos previstos por la normativa aplicable. Salvo que se indique expresamente lo contrario, Outzero no se basa exclusivamente en sistemas automatizados para decidir medidas de moderación de contenidos.
 
 ### 4.6. Canal de notificación y reclamaciones internas
 
@@ -115,15 +122,15 @@ Respecto de los enlaces publicados por Outzero, el Usuario reconoce y acepta que
 
 ## 6. Uso responsable de las funciones de geolocalización
 
-En el caso de que el Usuario acepte la utilización de la geolocalización, acepta los riesgos de seguridad y de otro tipo asociados al uso de las funciones, herramientas y tecnologías de geolocalización de Outzero o de terceros, incluyendo el registro o la compartición de actividades basadas en GPS y el uso de otras funciones basadas en mapas o en la ubicación. Outzero no se hace responsable de tales riesgos. El Usuario acepta utilizar dichas funciones de forma segura y responsable, conforme a sus circunstancias personales y a la normativa aplicable. Lo dispuesto en este apartado no anula las exclusiones y limitaciones de responsabilidad recogidas en el resto de estos Términos y Condiciones. El Usuario puede obtener más información sobre el tratamiento de los datos de geolocalización en la Política de Privacidad de Outzero.
+En el caso de que el Usuario acepte la utilización de la geolocalización, acepta los riesgos de seguridad y de otro tipo asociados al uso de las funciones, herramientas y tecnologías de geolocalización de Outzero o de terceros, incluyendo el registro o la compartición de actividades basadas en GPS, el seguimiento activo de rutas, el posible uso de localización en segundo plano mientras una sesión de seguimiento esté activa y el uso de otras funciones basadas en mapas o en la ubicación. Outzero no se hace responsable de tales riesgos. El Usuario acepta utilizar dichas funciones de forma segura y responsable, conforme a sus circunstancias personales y a la normativa aplicable. Lo dispuesto en este apartado no anula las exclusiones y limitaciones de responsabilidad recogidas en el resto de estos Términos y Condiciones. El Usuario puede obtener más información sobre el tratamiento de los datos de geolocalización en la Política de Privacidad de Outzero.
 
-En el caso que el Usuario no acepte la utilización de la geolocalización, por defecto se entenderá que la ubicación del mismo es en Madrid (España), sin perjuicio que esta podrá ser modificada posteriormente.
+En el caso de que el Usuario no acepte la utilización de la geolocalización, determinadas funciones basadas en ubicación podrán no estar disponibles o podrán utilizar una ubicación general por defecto o una ubicación seleccionada manualmente, sin perjuicio de que dicha configuración pueda modificarse posteriormente.
 
 ## 6. Derecho de los consumidores
 
 ### 6.1.
 
-El Usuario consumidor dispondrá de catorce (14) días naturales desde la contratación de servicios de pago para ejercer su derecho de desistimiento sin necesidad de justificación, conforme a los arts. 102 y ss. TRLGDCU. Si hubiera solicitado el inicio del servicio dentro de dicho plazo, abonará el importe proporcional a la parte ya prestada.
+El Usuario consumidor dispondrá de catorce (14) días naturales desde la contratación de servicios de pago para ejercer su derecho de desistimiento sin necesidad de justificación, conforme a los arts. 102 y ss. TRLGDCU, salvo que resulte aplicable alguna excepción prevista en la normativa. Si hubiera solicitado el inicio del servicio dentro de dicho plazo, abonará el importe proporcional a la parte ya prestada.
 
 ### 6.2.
 
@@ -185,7 +192,7 @@ La duración de estas Términos y Condiciones se extiende por todo el tiempo que
 
 ### 9.2.
 
-En cualquier momento, el Usuario podrá cancelar su cuenta a través de las herramientas de la app destinadas a tal efecto. A través del botón "Borra mi cuenta".
+En cualquier momento, el Usuario podrá solicitar la cancelación o eliminación de su cuenta a través de las herramientas de la app destinadas a tal efecto, incluido el botón "Borra mi cuenta", quedando dicho proceso sujeto a los pasos de seguridad, confirmación y periodo de gracia descritos en los presentes Términos y Condiciones y en la Política de Privacidad.
 
 ### 9.3.
 

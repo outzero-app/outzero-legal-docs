@@ -14,7 +14,7 @@ The main purpose of Outzero is to allow Users to explore, consult, and share rou
 
 ### 2.2.
 
-Although downloading, installing, using, and registering with Outzero is free of charge, subscribing to premium services requires payment of the applicable price. The price and subscription conditions will be provided beforehand so that you may accept or reject them. Subscriptions do not renew automatically.
+Although downloading, installing, using, and registering with Outzero is free of charge, subscribing to premium services requires payment of the applicable price. The price and subscription conditions will be provided beforehand so that you may accept or reject them. Where subscriptions are distributed through third-party app stores or payment platforms, renewal, cancellation, restoration, billing, and refund conditions may also depend on the applicable store or provider terms, without prejudice to the information that Outzero makes available in the purchase flow.
 
 ### 2.3.
 
@@ -27,6 +27,10 @@ The Outzero website and App are designed to be used on certain devices such as c
 ### 2.5.
 
 We also inform you that Outzero may include its own advertising or advertising from third-party companies and, where applicable, promoted or sponsored content. Such content will be clearly identified as advertising, sponsored content, or an equivalent label, in accordance with applicable regulations.
+
+### 2.6.
+
+Certain functionalities may depend on permissions or device features, such as geolocation, background location during active route tracking, push notifications, access to selected media, or connectivity to mapping, payment, or messaging services from third parties. If the User does not grant the required permissions, some functionalities may be limited or unavailable.
 
 ## 3. Intellectual and industrial property and license of use
 
@@ -59,6 +63,7 @@ To use certain services, the User must register by creating a username and passw
 - Refrain from using the platform to disseminate content that infringes third-party rights, including, among others, image rights, privacy, or intellectual property rights. The user is responsible for the images uploaded to the application and must ensure that they are the author of such images or, where appropriate, that they have the necessary permissions to use them.
 - Use the application responsibly, avoiding any content that may be considered disturbing, misleading, or inappropriate for the purpose of the service.
 - Provide truthful information when registering on the Outzero website or app.
+- Use route tracking, geolocation, background location, and any outdoor activity features responsibly, safely, and in accordance with applicable law and the User's actual circumstances.
 - Only one registration per user is allowed. It is not permitted to register multiple times under different identities or use Outzero in bad faith or for malicious, unlawful, or otherwise prohibited purposes under these General Terms of Use. If improper use of Outzero is detected, Outzero may adopt proportionate measures, including content removal, limitation of functionalities, temporary suspension, or, in serious or repeated cases, account cancellation, in accordance with these General Terms of Use and applicable law.
 - Periodically review these Terms and Conditions, or any other applicable conditions, checking the changes they may have undergone.
 - Review any notifications sent by Outzero, as they may include important information.
@@ -83,13 +88,15 @@ Once all requirements have been met and registration has been completed, Outzero
 
 Outzero may deny registration, temporarily suspend an account, or permanently cancel it where there are reasonable indications of breach of these General Terms of Use, applicable law, or unauthorized, fraudulent, or improper use of the account, taking into account the seriousness, repetition, and circumstances of the case. Where legally required or appropriate, Outzero will inform the affected User of the measure adopted and of the available remedies.
 
+The User may also request deletion of their account through the tools made available on the Platforms. For security reasons, Outzero may require re-authentication, email confirmation, or equivalent verification steps before proceeding. Once deletion is confirmed, Outzero may apply a grace period before permanent deletion. During that period, the deletion request may be cancelled in the cases enabled by the service, such as by logging back into the account.
+
 ### 4.4. Content moderation and applicable measures
 
 Outzero may adopt measures regarding content or accounts where there are indications of unlawfulness, breach of these Terms and Conditions, risks to the safety of third parties, or risks to the integrity of the service. Depending on the seriousness of the case, such measures may consist of content removal, limitation of visibility, deactivation of functionalities, temporary suspension of the account, or permanent cancellation. In particular, pursuant to Article 23 of Regulation (EU) 2022/2065 (DSA), where a User repeatedly publishes manifestly unlawful content, Outzero will temporarily suspend their account for a reasonable and proportionate period, following prior warning. Repetition will be deemed to exist where the User has received at least two substantiated notices concerning unlawful content within a period of ninety (90) days.
 
 ### 4.5. Detection and review of content
 
-Outzero does not assume a general obligation to carry out prior monitoring of all content published by Users. However, it may perform voluntary manual reviews and may act on the basis of notices from users, third parties, or competent authorities, in accordance with applicable law. Outzero does not use automated systems to detect or filter content.
+Outzero does not assume a general obligation to carry out prior monitoring of all content published by Users. However, it may perform voluntary manual reviews, integrity or security checks, or specific checks linked to moderation, abuse prevention, media validation, or compliance with these Terms and Conditions, and may act on the basis of notices from users, third parties, or competent authorities, in accordance with applicable law. Except where expressly indicated otherwise, Outzero does not rely solely on automated systems to decide content moderation measures.
 
 ### 4.6. Notification channel and internal complaints
 
@@ -115,15 +122,15 @@ With regard to links published by Outzero, the User acknowledges and accepts tha
 
 ## 6. Responsible use of geolocation functions
 
-If the User accepts the use of geolocation, they accept the security and other risks associated with the use of geolocation functions, tools, and technologies provided by Outzero or third parties, including the recording or sharing of GPS-based activities and the use of other map- or location-based functions. Outzero is not responsible for such risks. The User agrees to use such functions safely and responsibly, according to their personal circumstances and applicable law. The provisions of this section do not invalidate the exclusions and limitations of liability contained elsewhere in these Terms and Conditions. The User may obtain more information about the processing of geolocation data in the Outzero Privacy Policy.
+If the User accepts the use of geolocation, they accept the security and other risks associated with the use of geolocation functions, tools, and technologies provided by Outzero or third parties, including the recording or sharing of GPS-based activities, active route tracking, the possible use of background location while a route tracking session is active, and the use of other map- or location-based functions. Outzero is not responsible for such risks. The User agrees to use such functions safely and responsibly, according to their personal circumstances and applicable law. The provisions of this section do not invalidate the exclusions and limitations of liability contained elsewhere in these Terms and Conditions. The User may obtain more information about the processing of geolocation data in the Outzero Privacy Policy.
 
-If the User does not accept the use of geolocation, their location will by default be understood to be Madrid (Spain), without prejudice to the fact that it may later be modified.
+If the User does not accept the use of geolocation, certain location-based features may be unavailable or may use a general default location or manually selected location, without prejudice to the fact that the User may later modify such settings.
 
 ## 6. Consumer rights
 
 ### 6.1.
 
-Consumer Users will have fourteen (14) calendar days from the contracting of paid services to exercise their right of withdrawal without giving reasons, pursuant to Articles 102 et seq. of the TRLGDCU. If the User requested the service to begin within that period, they will pay the proportional amount corresponding to the part already provided.
+Consumer Users will have fourteen (14) calendar days from the contracting of paid services to exercise their right of withdrawal without giving reasons, pursuant to Articles 102 et seq. of the TRLGDCU, unless an exception provided by applicable law applies. If the User requested the service to begin within that period, they will pay the proportional amount corresponding to the part already provided.
 
 ### 6.2.
 
@@ -185,7 +192,7 @@ These Terms and Conditions shall remain in force for as long as the User maintai
 
 ### 9.2.
 
-At any time, the User may cancel their account through the tools in the app intended for that purpose, via the "Delete my account" button.
+At any time, the User may request cancellation or deletion of their account through the tools in the app intended for that purpose, including the "Delete my account" button, subject to the security, confirmation, and grace-period steps described in these Terms and Conditions and the Privacy Policy.
 
 ### 9.3.
 

@@ -10,7 +10,7 @@ La presente Política de Privacidad regula el tratamiento de datos personales de
 
 El acceso y el uso de las Plataformas suponen que el usuario ha leído y aceptado en su totalidad la presente Política de Privacidad. Algunos de los servicios que se prestan a través de las Plataformas podrán contar con políticas de privacidad específicas, que completarán o, si fueran diferentes a esta Política de Privacidad, sustituirán o complementarán el contenido de la presente Política de Privacidad y que deberán ser aceptadas por el usuario antes de iniciarse la prestación del servicio correspondiente.
 
-El objetivo de esta política es explicarle como Outzero tratará sus datos personales, los cuales pueden ser recabados a través de los distintos formularios, que a tal efecto pueden disponerse en la página web o la aplicación. Tus datos serán tratados por Outzero de forma confidencial y solo para aquellas finalidades que hayas consentido, tal y como se explica a continuación en la presente política. Asimismo, en lo que respecta al acceso y uso de las Plataformas resultan de aplicación las Términos y Condiciones de Uso.
+El objetivo de esta política es explicarle cómo Outzero tratará sus datos personales, los cuales pueden ser recabados a través de los distintos formularios que, a tal efecto, puedan disponerse en la página web o la aplicación. Sus datos serán tratados por Outzero de forma confidencial y únicamente para las finalidades y bases jurídicas que se explican a continuación en la presente política. Asimismo, en lo que respecta al acceso y uso de las Plataformas resultan de aplicación los Términos y Condiciones de Uso.
 
 ## Finalidades de los tratamientos
 
@@ -18,27 +18,37 @@ Tus datos serán tratados de acuerdo con lo siguiente:
 
 ### Gestión de las Plataformas para la prestación de servicios
 
-Outzero trata los datos de los usuarios registrados en la Plataforma a través de los Servicios con la finalidad de gestionar las Plataformas, así como para prestar o mejorar la prestación de los Servicios.
+Outzero trata los datos de los usuarios registrados en la Plataforma a través de los Servicios con la finalidad de gestionar cuentas y perfiles de usuario, autenticar el acceso, operar las funcionalidades principales de las Plataformas, gestionar contenidos generados por usuarios, favoritos, reseñas, rutas, suscripciones u otros accesos premium, preferencias de notificaciones, solicitudes de soporte y flujos de cambio o eliminación de cuenta, así como para prestar o mejorar la prestación de los Servicios.
 
 Base de legitimación: Ejecución contractual.
 
-Conservación: Trataremos los datos mientras se mantenga la cuenta de usuario y hasta que se solicite la baja como usuario o se manifieste oposición al tratamiento.
+Conservación: Trataremos los datos mientras se mantenga la cuenta de usuario activa y, en su caso, durante el flujo de eliminación de cuenta y durante los plazos necesarios para cumplir obligaciones legales o defender reclamaciones.
 
 ### Geolocalización
 
-La plataforma solicitará que facilite la ubicación del spot o punto de interés que se está publicando. En el caso de que el usuario quiera utilizar la geolocalización se gestionará un consentimiento que deberá otorgar en la App. En ese caso, podremos tratar los datos localización como la grabación de la ruta o punto de interés, o la navegación por una ruta descargada, la prestación de los Servicios puede incluir el tratamiento de los datos de localización, que se utilizarán para mejorar la prestación de los Servicios.
+Outzero podrá solicitarle que facilite o active datos de localización para publicar un spot o punto de interés, explorar contenido cercano, utilizar funciones de mapa, navegar o seguir rutas, o utilizar otras funciones basadas en ubicación. En el caso de que el usuario quiera utilizar la geolocalización, se gestionará el consentimiento correspondiente, que deberá otorgar en la App y, en su caso, en los permisos del sistema operativo. Si el seguimiento de rutas está activo y el usuario concede el permiso correspondiente, ello podrá incluir localización en segundo plano mientras la pantalla esté bloqueada o la app permanezca en segundo plano.
+
+Cuando el usuario no introduzca manualmente una ubicación al subir contenido, Outzero también podrá solicitar un consentimiento específico para leer metadatos de localización incrustados en los archivos seleccionados con el fin de autocompletar la ubicación del spot. Las imágenes saneadas y almacenadas por Outzero se recodifican y se suben sin metadatos EXIF.
 
 Base de legitimación: Consentimiento.
 
-Conservación: Se conservarán los datos mientras no revoque el consentimiento. El usuario podrá gestionar el mismo en cualquier momento mediante los permisos que le solicite la app.
+Conservación: Se conservarán los datos mientras no revoque el consentimiento. En el caso del seguimiento de rutas o de la extracción de ubicación desde archivos multimedia, el tratamiento podrá limitarse a la sesión o flujo de subida correspondiente, sin perjuicio de que las coordenadas o datos de ubicación que el usuario decida publicar puedan permanecer asociados a dicho contenido mientras esté disponible en las Plataformas. El usuario podrá gestionar dicho consentimiento en cualquier momento mediante los permisos solicitados por la app o a través de la configuración del dispositivo.
+
+### Notificaciones push y comunicaciones del servicio
+
+Si el usuario habilita las notificaciones en su dispositivo o dentro de las Plataformas, Outzero podrá tratar tokens de notificaciones push, información de plataforma o dispositivo, idioma y preferencias de notificación para enviar notificaciones de servicio, seguridad, sociales, de moderación, hitos, rankings o promociones, así como para almacenar o mostrar el historial de notificaciones dentro de las Plataformas.
+
+Base de legitimación: Ejecución contractual para las notificaciones necesarias para prestar el servicio, interés legítimo para la integridad del servicio y determinados avisos no esenciales, y consentimiento cuando las comunicaciones promocionales o los permisos del dispositivo así lo requieran.
+
+Conservación: Los tokens push y las preferencias de notificación se tratarán mientras la cuenta permanezca activa o hasta que el token deje de ser válido, el usuario revoque los permisos o modifique sus preferencias. El historial de notificaciones podrá conservarse durante el tiempo necesario para prestar el servicio y atender reclamaciones.
 
 ### Envío de comunicaciones comerciales
 
-En caso de que se preste el consentimiento y se proporcione los datos de contacto, se utilizaran los mismos para enviar información y comunicaciones comerciales sobre productos o servicios, así como descuentos, promociones, invitaciones a eventos o encuestas de opinión de Outzero.
+En caso de que se preste el consentimiento y se proporcionen datos de contacto o los permisos de notificación pertinentes, estos podrán utilizarse para enviar información y comunicaciones comerciales por correo electrónico, notificación push o medios similares sobre productos o servicios, así como descuentos, promociones, invitaciones a eventos o encuestas de opinión de Outzero.
 
 Base de legitimación: Consentimiento.
 
-Conservación: Trataremos los datos hasta que se solicite la baja o se revoque el consentimiento.
+Conservación: Trataremos los datos hasta que se solicite la baja, se desactiven los permisos correspondientes o se revoque el consentimiento.
 
 ### Contacta con nosotros
 
@@ -48,29 +58,39 @@ Base de legitimación: Consentimiento.
 
 Conservación: Conservaremos los datos durante 1 año tras haber resuelto la consulta.
 
-### Mejora de los servicios y prevención del fraude
+### Mejora de los servicios, diagnósticos y prevención del fraude
 
-Al utilizar los Servicios, se genera información sobre ese uso de las Plataformas como búsquedas, seguimientos, interacciones, publicaciones o descargas, que serán empleadas por Outzero para mejorar los Servicios, así como para prevenir conductas que pudieran suponer un fraude y garantizar la seguridad.
+Al utilizar los Servicios, se genera información sobre ese uso de las Plataformas como búsquedas, seguimientos, interacciones, publicaciones, descargas, eventos de notificaciones, compras o restauraciones, diagnósticos técnicos o eventos de seguridad y acceso. Dicha información será empleada por Outzero para mejorar los Servicios, monitorizar el rendimiento y la estabilidad, diagnosticar incidencias, prevenir conductas que pudieran suponer un fraude y garantizar la seguridad.
 
-Base de legitimación: Interés legítimo.
+Esto puede incluir eventos de analítica de producto y uso generados dentro de la app o del sitio web, como vistas de pantalla, búsquedas, selecciones de contenido, interacciones con spots, rutas, perfiles o suscripciones, mediciones técnicas de rendimiento, informes de errores o fallos, y contexto técnico limitado asociado a dichos eventos. Para usuarios autenticados, algunos eventos de analítica, auditoría o seguridad pueden asociarse a un identificador interno de cuenta. En la web, cuando la normativa lo exija, la recogida de analítica y medición similar solo se activará tras el consentimiento del usuario a través del banner o configurador de cookies.
+
+Base de legitimación: Interés legítimo y, cuando proceda para determinadas tecnologías de analítica o medición web, consentimiento.
 
 Conservación: 10 años.
+
+### Contenido patrocinado y publicidad contextual
+
+Outzero podrá mostrar contenido patrocinado o publicidad de terceros en la app móvil y, cuando proceda, tratar información limitada del dispositivo, de la app, del contexto o de medición para servir, limitar la frecuencia, proteger y medir dicho contenido. Outzero no utiliza este tratamiento para crear sus propios perfiles publicitarios individualizados, sin perjuicio del tratamiento que puedan realizar los proveedores terceros correspondientes bajo sus propias condiciones cuando resulte aplicable.
+
+Base de legitimación: Interés legítimo y, cuando la normativa aplicable o las reglas de plataforma lo exijan, consentimiento.
+
+Conservación: Durante el tiempo necesario para gestionar la entrega publicitaria, el control de frecuencia, la prevención del fraude y la medición, y conforme a las reglas de conservación del proveedor aplicable.
 
 En el caso de que a futuro se traten los datos para cualquier otra finalidad será comunicada antes de proceder al tratamiento de los datos.
 
 No obstante, en algunas ocasiones puede ser necesario el tratamiento de los datos personales para dar cumplimiento a obligaciones legales, o en relación con cualquier relación contractual que podamos tener con el usuario.
 
-## Envío de comunicaciones comerciales
+## Gestión de comunicaciones comerciales y permisos push
 
 En el supuesto que se haya autorizado, a través de la prestación del consentimiento, se podrán enviar comunicaciones comerciales, o actualizaciones push de las Plataformas. En esos casos, Outzero podrá enviar información sobre sus productos, actividades y servicios, o actualizaciones que se produzcan en las Plataformas.
 
-En cualquier momento se podrá revocar el consentimiento a recibir comunicaciones comerciales en cada una de las comunicaciones, marcando el link [XX] o comunicando la voluntad de revocar el consentimiento enviando un email a info@outzero.app. En el caso las comunicaciones push, se podrá revocar el consentimiento directamente en las Plataformas accediendo a: [indicar dónde].
+En cualquier momento se podrá revocar el consentimiento para recibir comunicaciones comerciales utilizando el mecanismo de baja incluido en cada correo, modificando las preferencias de notificación correspondientes en las Plataformas o en el dispositivo, o comunicando la voluntad de revocar el consentimiento enviando un email a info@outzero.app.
 
 ## Comunicaciones de datos y transferencias internacionales
 
-En el caso de que contrate una suscripción, sus datos podrán ser comunicados a los proveedores con los que trabajemos para realizar el pago de la suscripción, que actuarán como responsables del tratamiento, y que por lo tanto serán éstos las que determinen los fines y los medios para los cuales usarán los mismos.
+En el caso de que contrate una suscripción, sus datos podrán ser comunicados a tiendas de aplicaciones, proveedores de pago, procesadores de suscripciones u otros proveedores con los que trabajemos para tramitar, restaurar, gestionar o dar soporte a la suscripción. En función del servicio, dichos proveedores podrán actuar como encargados del tratamiento o como responsables independientes conforme a sus propias condiciones.
 
-Con excepción de la comunicación de datos indicada en el párrafo anterior, los datos no serán cedidos, venidos, alquilados o puestos a disposición de ninguna otra forma a terceros, a excepción de aquellos proveedores de servicios que realicen determinadas actividades para Outzero (gestión de la base de datos, entre otros) pero que en ningún caso tratarán los datos para finalidades propias.
+Outzero no vende ni alquila datos personales a terceros. Asimismo, los datos podrán ponerse a disposición de proveedores que den soporte al alojamiento, autenticación, gestión de bases de datos, almacenamiento, analítica y medición, reporte de fallos, mensajería push, servicios de mapas o geolocalización, entrega de publicidad o contenido patrocinado, atención al cliente y otras funciones necesarias para operar, proteger, medir o mejorar las Plataformas. Dichos proveedores accederán a los datos únicamente en la medida necesaria para dichos servicios, salvo que actúen bajo sus propias condiciones de privacidad como responsables independientes.
 
 Algunos de estos proveedores pueden encontrase fuera de la Unión Europea o del Espacio Económico Europeo, por lo que en caso de que se contraten con dichos proveedores, nos aseguraremos de que se realiza de acuerdo con las garantías previstas en el RGPD y que aplicaremos todas las medidas y controles para garantizar y proteger el tratamiento de los datos personales.
 
@@ -78,15 +98,17 @@ Es posible solicitar en cualquier momento más información acerca de las garant
 
 ## Cookies
 
-A través de las Cookies, podremos tratar y conservar aquella información sobre el uso que se realiza en el Sitio Web, y en su caso algunos datos personales, pudiendo ver las secciones visitadas, mapas de influencia, rastreo del comportamiento, y en qué momento se abandona la web.
+A través de Cookies y tecnologías similares, podremos tratar y conservar información sobre el uso que se realiza en el Sitio Web y, en su caso, algunos datos personales, como secciones visitadas, idioma o decisiones de consentimiento, flujos generales de uso y eventos de analítica o rendimiento. En la app móvil podrán utilizarse almacenamientos locales o identificadores SDK equivalentes en lugar de cookies de navegador.
 
-Dicha información se obtiene principalmente mediante el uso de Cookies, por lo que su tratamiento dependerá de las Cookies que se hayan aceptado. No obstante, actualmente solo se utilizan cookies técnicas.
+Dicha información se obtiene principalmente mediante el uso de Cookies o tecnologías similares, por lo que su tratamiento dependerá de las Cookies o tecnologías aceptadas o estrictamente necesarias. Outzero podrá utilizar cookies o identificadores técnicos, de preferencias, de analítica y de medición de rendimiento para comprender el uso del sitio web y mejorar el servicio. Outzero no activa analítica web no esencial ni medición similar antes del consentimiento cuando este sea legalmente exigible.
 
-Es posible gestionar las cookies desde el configurador y cambiar las preferencias en cualquier momento. Para más información, incluido los tipos de cookies usadas y como configurar las cookies instaladas en nuestro sitio web, se puede consultar nuestra Política de Cookies.
+Es posible gestionar las cookies y tecnologías similares desde el configurador y cambiar las preferencias en cualquier momento. Para más información, incluidos los tipos de cookies o tecnologías similares utilizadas y cómo configurarlas, se puede consultar nuestra Política de Cookies.
 
 ## Plazo de conservación
 
 Los datos se conservarán durante el plazo establecido en cada apartado de la web en el que se soliciten datos de carácter personal, salvo que la persona interesada consienta su conservación durante un plazo superior, sin perjuicio de su conservación y mantenimiento bajo el debido bloqueo para su puesta a disposición de las autoridades competentes en las distintas materias que resulten de aplicación.
+
+Cuando el usuario solicite la eliminación de la cuenta, Outzero podrá aplicar pasos de verificación de seguridad, confirmación por correo electrónico y un periodo de gracia antes de la eliminación permanente, sin perjuicio de las obligaciones de bloqueo o conservación que resulten exigibles por ley.
 
 ## Derechos del usuario
 
@@ -103,6 +125,8 @@ En virtud del derecho a la portabilidad, las personas interesadas tienen derecho
 Cuando la base jurídica que legitima el tratamiento sea el consentimiento, la persona interesada tiene derecho a retirarlo o revocarlo en cualquier momento. La retirada o revocación del consentimiento no tendrá efectos retroactivos y, por tanto, no afectará a la licitud del tratamiento basado en el consentimiento previo a su retirada.
 
 Puede ejercer cualquiera de los derechos indicados enviando un correo electrónico a: info@outzero.app.
+
+Asimismo, el usuario podrá gestionar determinados permisos y preferencias directamente en las Plataformas o a través de la configuración del dispositivo o del navegador, como la localización, las cookies en la web o las notificaciones push.
 
 Tenga en cuenta que, en algunos supuestos, es posible que Outzero necesite comprobar su identidad y por ello le requiera aportar determinada documentación acreditativa como, por ejemplo, fotocopia del DNI o documento identificativo equivalente.
 
